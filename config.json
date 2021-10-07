@@ -1,0 +1,12 @@
+{
+    "x": 242,
+    "lifeStart": 72,
+    "lifeEnd": 496,
+    "manaStart": 512,
+    "manaEnd": 939,
+    "manaColor": "#003474",
+    "lifeColor": "#00af00",
+    "regularHealKey": "f",
+    "emergencyHealKey": "1",
+    "manapotKey": "5"
+}
